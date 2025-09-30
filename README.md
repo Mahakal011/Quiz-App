@@ -40,8 +40,6 @@ Provides utility-first classes for fast, responsive styling and aesthetics.
 
 Logic
 
-Vanilla JavaScript (ES6+)
-
 Handles state management, timer control, event listeners, and data processing.
 
 Data Source
